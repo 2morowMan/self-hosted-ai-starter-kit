@@ -144,6 +144,7 @@ language model and Qdrant as your vector store.
 > projects. You can customize it to meet your specific needs
 
 ## Upgrading
+Note: If you are using windows powershell, replace && with ;
 
 * ### For Nvidia GPU setups:
 
